@@ -1,0 +1,14 @@
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\bin\Debug\net8.0\arrays-and-lists.exe
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\bin\Debug\net8.0\arrays-and-lists.deps.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\bin\Debug\net8.0\arrays-and-lists.runtimeconfig.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\bin\Debug\net8.0\arrays-and-lists.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\bin\Debug\net8.0\arrays-and-lists.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\arrays-and-lists.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\arrays-and-lists.AssemblyInfoInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\arrays-and-lists.AssemblyInfo.cs
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\arrays-and-lists.csproj.CoreCompileInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\arrays-and-lists.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\refint\arrays-and-lists.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\arrays-and-lists.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\arrays-and-lists.genruntimeconfig.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\arrays-and-lists\arrays-and-lists\obj\Debug\net8.0\ref\arrays-and-lists.dll
